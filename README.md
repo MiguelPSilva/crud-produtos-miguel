@@ -2,7 +2,6 @@
 
 **Integrantes:**
 - Miguel
-- [NOME DA DUPLA AQUI OU APAGUE A LINHA]
 
 ## Instalação e Execução
 
